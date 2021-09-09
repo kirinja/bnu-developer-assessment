@@ -44,9 +44,10 @@ Din uppgift är att ta fram en enkel applikation som:
   avvägningar du gör, och vad du hade inkluderat eller jobbat vidare på
   om du hade fortsatt att utveckla applikationen som en applikation redo att
   driftsätta och vidareutveckla.
-- Din lösning skall lämnas som en eller gärna flera commits till din "fork",
-  tillsammans med en instruktion som beskriver hur man kör applikationen, samt
-  en kort beskrivning av vilka avvägningar och avgränsningar du gjort.
+- Lämna din lösning som en eller gärna flera commits till ett eget
+  git-repository på GitHub, GitLab eller liknande, tillsammans med en
+  instruktion som beskriver hur man kör applikationen, samt en kort beskrivning
+  av vilka avvägningar och avgränsningar du gjort.
 - När du skickat in din lösning, kommer du att få möjlighet att göra en mindre
   förändring i en parprogrammeringsuppgift tillsammans med en kollega.
 
