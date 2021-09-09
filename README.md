@@ -19,16 +19,16 @@ Din uppgift är att ta fram en enkel applikation som:
 
 ### Exempelresultat
 
-1. [Närmsta dagarna avgörande för Norge](https://www.dn.se/varlden/solberg-narmsta-dagarna-avgorande-for-norge/)
-2. [Ett sterilt barnäventyr](https://www.dn.se/kultur/rymdresan-fartigt-men-sterilt-barnaventyr/)
-3. [Svenska simmarna redo för bubblan i Budapest](https://www.dn.se/sport/svenskarna-ar-redo-for-bubblan-i-budapest/)
-4. [”Bossen” släpper nytt album i höst](https://www.expressen.se/noje/bossen-slapper-nytt-album-i-host/)
-5. [Coronakrisen kräver fördjupat alternativ till januariavtalet](https://www.dn.se/debatt/coronakrisen-kraver-fordjupat-alternativ-till-januariavtalet/)
-6. [Fartfyllt med djuragenter](https://www.dn.se/kultur/djuragenterna-haller-farten-uppe/)
-7. [Tränare och experter tippar: Här hamnar OV](https://www.hd.se/2020-09-10/tranare-och-experter-tippar-har-hamnar-ov)
-8. [Sänkt skatt – för sju miljoner svenskar](https://www.sydsvenskan.se/2020-09-10/sankt-skatt-for-sju-miljoner-svenskar)
-9. [Spårvagnen ska köra på stolpe](https://www.sydsvenskan.se/2020-09-10/sparvagnen-ska-kora-pa-stolpe)
-10. [C och L: Sänkt inkomstskatt med 13,5 miljarder](https://www.dn.se/ekonomi/forslag-30-miljarder-kronors-skattesankningar/)
+1. [Folkhälsomyndigheten: Fler måste vaccinera sig](https://www.dn.se/sverige/folkhalsomyndigheten-fler-maste-vaccinera-sig/)
+2. [Sommarvärmen är tillbaka – tillfälligt](https://www.expressen.se/gt/sommarvarmen-ar-tillbaka-tillfalligt/)
+3. [Så vill Danmark locka arbetslösa skåningar](https://www.expressen.se/kvallsposten/sa-vill-danmark-locka-arbetslosa-skaningar/)
+4. [Amina Manzoor svarar på era frågor om pandemin](https://www.expressen.se/nyheter/coronaviruset/amina-manzoor-svarar-pa-era-fragor-om-pandemin-em4p6/)
+5. [Regionens besked: Då trappar vi ner vaccinationerna](https://www.expressen.se/gt/regionens-besked-da-trappar-vi-ner-vaccinationerna/)
+6. [Nalin Pekgul vittnade: ”Hatet var det verkliga skälet till att jag lämnade politiken”](https://www.dn.se/sverige/nalin-pekgul-vittnade-hatet-var-det-verkliga-skalet-till-att-jag-lamnade-politiken/)
+7. [Tegnell: Rekommendationer kan ligga kvar för ovaccinerade](https://www.expressen.se/nyheter/coronaviruset/tegnell-rekommendationer-kan-ligga-kvar-for-ovaccinerade/)
+8. [Även Moderna experimenterar med kombinerat covid- och influensavaccin](https://www.di.se/live/aven-moderna-experimenterar-med-kombinerat-covid-och-influensavaccin/)
+9. [Skäl att fira för champagnetillverkare](https://www.dn.se/ekonomi/skal-att-fira-for-champagnetillverkare/)
+10. [Nyanmälda arbetslösa sjönk i USA i förra veckan](https://www.di.se/live/nyanmalda-arbetslosa-sjonk-i-usa-i-forra-veckan/)
 
 ## Instruktioner
 
