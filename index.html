@@ -1,0 +1,12 @@
+<html>
+  <head>
+  </head>
+  <body>
+    <h1>Top 10 Stories</h1>
+    <ul>
+    {% for entry in entries: %}
+        <li><a href="{{ entry[1] }}" target="_blank">{{ entry[0] }}</a></li>
+	{% endfor %}
+	</ul>
+  </body>
+</html>
